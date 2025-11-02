@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Matt
 
-<!--
-**code-zr0/code-zr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have obtained my security+ certification and am looking to enter the world of Cybersecurity.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I originally was an aspiring game developer, which later turned into an enthusiasm for cybersecurity. I am eager to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill | Used In | 
+| --- | --- | 
+| Python scripting and automation | Python Keylogger Project | 
+| Network protocol handling | Python Keylogger Project | 
+| Stealthy logging and data buffering | Python Keylogger Project |
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- Python Disguised Keylogger
+- Homelab
