@@ -4,7 +4,7 @@ I have obtained my security+ certification and am looking to enter the world of 
 
 ## Objective
 
-I originally was an aspiring game developer, which later turned into an enthusiasm for cybersecurity. I am eager to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Former aspiring game developer turned cybersecurity enthusiast with a strong foundation in programming, network analysis, and system monitoring. Seeking to enter an entry-level IT or Cyber Security position where I can apply my technical skills, ethical mindset, and eagerness to learn in a fast-paced environment.
 
 ## Skills
 
@@ -29,3 +29,5 @@ I originally was an aspiring game developer, which later turned into an enthusia
 ## Projects
 - Python Disguised Keylogger
 - Homelab
+- Active Directory (in progress)
+- 
