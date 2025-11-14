@@ -4,7 +4,7 @@ I have obtained my security+ certification and am looking to enter the world of 
 
 ## Objective
 
-Former aspiring game developer turned cybersecurity enthusiast with a strong foundation in programming, network analysis, and system monitoring. Seeking to enter an entry-level IT or Cyber Security position where I can apply my technical skills, ethical mindset, and eagerness to learn in a fast-paced environment.
+Former aspiring game developer turned cybersecurity enthusiast with a strong foundation in programming, network analysis, and system monitoring. Seeking to enter an entry level IT or Cyber Security position where I can apply my technical skills, ethical mindset, and eagerness to learn in a fast-paced environment.
 
 ## Skills
 
@@ -30,4 +30,4 @@ Former aspiring game developer turned cybersecurity enthusiast with a strong fou
 - Python Disguised Keylogger
 - Homelab
 - Active Directory (in progress)
-- 
+- Custom PC builds
