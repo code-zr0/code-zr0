@@ -1,6 +1,6 @@
 # Hello, I'm Matt
 
-I have obtained my security+ certification and am looking to enter the world of Cybersecurity.
+I have obtained my security+ certification and am looking to enter the world of Cybersecurity or IT.
 
 ## Objective
 
